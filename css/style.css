@@ -1,0 +1,21 @@
+
+#about-us figure {
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    height: 150px;
+}
+
+#about-us h1 {
+    text-align: center;
+    font-weight: bold;
+}
+
+#about-us p {
+    text-align: justify
+}
+
+#about-us-hr {
+    border-top: 2px solid dodgerblue;
+    margin-bottom: 20px;
+}
