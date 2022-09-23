@@ -26,10 +26,6 @@
         
       }
   
-      img{
-            height:65px;
-          }
-  
       ul {
           display: flex;
           list-style-type: none;
