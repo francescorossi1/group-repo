@@ -16,6 +16,10 @@ ul{
     list-style-type: none;
 }
 
+h2{
+    text-align: center;
+}
+
 /* utilities */
 
 .container-big{
@@ -35,7 +39,7 @@ ul{
 
 /* cards */
 
-.plans .cards{
+.cards{
     display: flex;
     justify-content: space-between;
 }
